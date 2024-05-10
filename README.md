@@ -19,9 +19,13 @@ $ pip install deepface opencv-python tf-keras
 <h5>Now look at the camera and ensure that there is lots of light and enjoy your face recognition! If the recognition takes longer then 30 seconds try restarting the program and ensurign you have lots of light on your face when registering your pictures</h5>
 
 <h4>Demo</h4>
-<h5>Click this link to see a live demo on how this script works</h5>
+<h5>Click this link to see a live demo on how this script works</h5>  
 <img src="https://github.com/jayyy044/Face_recognition/blob/main/Demo/FaceRecognition_Demo.mp4" alt="Demo">
-<img src="https://github.com/jayyy044/Face_recognition/blob/main/Demo/FaceRecognition_Demo.mp4" alt="Demo">
-<img src="https://github.com/jayyy044/Face_recognition/blob/main/Demo/FaceRecognition_Demo.mp4" alt="Demo">
-<img src="https://github.com/jayyy044/Face_recognition/blob/main/Demo/FaceRecognition_Demo.mp4" alt="Demo">
-<img src="https://github.com/jayyy044/Face_recognition/blob/main/Demo/FaceRecognition_Demo.mp4" alt="Demo">
+<h5>Pictures</h5>
+<div>
+  <img src="https://github.com/jayyy044/Face_recognition/blob/main/Demo/NoFaceRegistered.png" alt="Demo">
+  <img src="https://github.com/jayyy044/Face_recognition/blob/main/Demo/Registering.png" alt="Demo">
+  <img src="https://github.com/jayyy044/Face_recognition/blob/main/Demo/Verifying.png" alt="Demo">
+  <img src="https://github.com/jayyy044/Face_recognition/blob/main/Demo/matched.png" alt="Demo">
+</div>
+
