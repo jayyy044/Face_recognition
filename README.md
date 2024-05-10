@@ -20,3 +20,4 @@ $ pip install deepface opencv-python tf-keras
 
 <h4>Demo</h4>
 <h5>Here is a demonstration on how this script works</h5>
+<img src="https://github.com/jayyy044/Face_recognition/tree/main/Demo/android1.png" alt="Home Page" style="width: 20%; height: 20%;">
