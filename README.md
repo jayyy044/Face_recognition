@@ -20,4 +20,4 @@ $ pip install deepface opencv-python tf-keras
 
 <h4>Demo</h4>
 <h5>Here is a demonstration on how this script works</h5>
-<img src="https://github.com/jayyy044/Face_recognition/tree/main/Demo/FaceRecognition_Demo.mp4" alt="Demo">
+<img src="https://github.com/jayyy044/Face_recognition/blob/main/Demo/FaceRecognition_Demo.mp4" alt="Demo">
