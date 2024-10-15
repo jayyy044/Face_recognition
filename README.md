@@ -16,7 +16,7 @@ $ pip install deepface opencv-python tf-keras
 <h5>When You first run the program there are no reference faces thus you cannot use the face detection. Thus you need to click register and register 5 images of your self. Take one looking at the camera then one with your hit slightly tilted up, down, left and then right</h5>
 <h4>Step 3: Recognition</h4>
 <hr>
-<h5>Now look at the camera and ensure that there is lots of light and enjoy your face recognition! If the recognition takes longer then 30 seconds try restarting the program and ensurign you have lots of light on your face when registering your pictures</h5>
+<h5>Now look at the camera and ensure that there is lots of light and enjoy your face recognition! If the recognition takes longer then 30 seconds try restarting the program and ensuring you have lots of light on your face when registering your pictures</h5>
 
 <h4>Demo</h4>
 <h5>Click this link to see a live demo on how this script works</h5>  
